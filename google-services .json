@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670781488973",
+    "project_id": "databasestray",
+    "storage_bucket": "databasestray.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670781488973:android:70a692a349ef82a8cc4104",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkz2-iY5bjL4slDBk-JkpI-u_IGDVYbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

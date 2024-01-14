@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187536621091",
+    "project_id": "strayss-dd97c",
+    "storage_bucket": "strayss-dd97c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187536621091:android:fe611c5046686f78b33b96",
+        "android_client_info": {
+          "package_name": "com.example.straybud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoChUG1kWRAdwmTdGG4sAR4ruHiV5cb_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
