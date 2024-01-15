@@ -48,6 +48,7 @@ class MyApp extends StatelessWidget {
             create: (_) => UserProvider(),
           ),
         ],
+        
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
           title: 'StrayBud',

@@ -29,7 +29,7 @@ class _WhyAdoptState extends State<WhyAdopt> {
               width: 500,
               child: Center(
                 child: Image.asset(
-                  'lib/images/adopt.png',
+                  'lib/images/adopt.jpeg',
                   height: 300,
                   fit: BoxFit.cover,
                 ),

@@ -121,7 +121,7 @@ class _HelpScreenState extends State<HelpScreen> {
                       Container(
                         height: 300,
                         width: 400,
-                        child: Image.asset('lib/images/health.png'),
+                        child: Image.asset('lib/images/bleed.jpeg'),
                       ),
                       // const SizedBox(height: 10),
                       const Divider(
@@ -132,7 +132,7 @@ class _HelpScreenState extends State<HelpScreen> {
                           description:
                               'BLEEDING requires immediate first aid. Press down firmly on the bleeding area with your fingers or the palm of your hand, and then apply a firm, but not tight, bandage. Any long pieces of fabric or gauze can be used.'),
                       _buildImageWithText(
-                          imageAsset: 'lib/images/burns.png',
+                          imageAsset: 'lib/images/burns.jpeg',
                           description:
                               'BURNS can be difficult to evaluate because the fur makes it hard to examine the injury. Large deep burns need immediate attention. Use cold water on the affected area, and cover the burn with a dressing.'),
                       _buildImageWithText(

@@ -75,6 +75,7 @@ flutter:
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
+  
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
@@ -84,24 +85,24 @@ flutter:
     - lib/animations/upload.json
     - lib/animations/upload1.json
     - lib/animations/post.json
-    - lib/images/apple.png
-    - lib/images/google.png
-    - lib/images/dog.png
-    - lib/images/data1.png
-    - lib/images/adopt.png
+    - lib/images/apple.jpeg
+    - lib/images/google.jpeg
+    - lib/images/dog.jpeg
+    - lib/images/data1.jpeg
+    - lib/images/adopt.jpeg
     - lib/images/levi.jpeg
     - lib/images/pushpa.jpeg
-    - lib/images/health.png
+    - lib/images/health.jpeg
     - lib/images/flutter.jpeg
-    - lib/images/bleed.jpeg
-    - lib/images/burns.jpeg
-    - lib/images/search.png
-    - lib/images/choking.jpeg
-    - lib/images/optimization.png
-    - lib/images/Labrador.jpg
+    - lib/images/bleed.jpeg   
+    - lib/images/burns.jpeg   
+    - lib/images/choking.jpeg   
+    - lib/images/search.jpeg
+    - lib/images/optimization.jpeg
+    - lib/images/Labrador.jpeg
     - lib/images/pomeranian.jpeg
-    - lib/images/beagle.png
-    - lib/images/german.png
+    - lib/images/beagle.jpeg
+    - lib/images/german.jpeg
     - assets/ic_instagram.svg
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
