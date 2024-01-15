@@ -8,4 +8,3 @@
 
 
 ![Uploading Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-20 at 21.35.21.png…]()
-![Uploading Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-20 at 21.35.35.png…]()
